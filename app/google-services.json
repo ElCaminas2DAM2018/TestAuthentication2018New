@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "507165864449",
+    "firebase_url": "https://testauthentication2018new.firebaseio.com",
+    "project_id": "testauthentication2018new",
+    "storage_bucket": "testauthentication2018new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507165864449:android:f5c4b3e662472a58",
+        "android_client_info": {
+          "package_name": "org.ieselcaminas.pmdm.testauthentication2018new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507165864449-ue8m42miig073sd5basvtngp50cttao5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.ieselcaminas.pmdm.testauthentication2018new",
+            "certificate_hash": "7a094cba0c2195361428cc475c437d6b71526a54"
+          }
+        },
+        {
+          "client_id": "507165864449-361k47u7l9g06k0k61dicrajnm7a7bpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs312PDXeX9piNeweLcETA_NAI6K8F5E8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507165864449-361k47u7l9g06k0k61dicrajnm7a7bpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
